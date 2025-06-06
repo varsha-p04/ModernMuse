@@ -2,11 +2,12 @@
 
 
 ### SignIn Page
-![SignIn Page](assets/images/readmeImages/signin.jpg)
+<img src="assets/images/readmeImages/signin.jpg" alt="SignIn Page" width="100"/>
 
 ### Home Page
-![Home Screen](assets/images/readmeImages/Home.jpg)
+<img src="assets/images/readmeImages/Home.jpg" alt="Home Page" width="100"/>
 
 ### Wishlist Page
-![Wislist Page](assets/images/readmeImages/wish.jpg)
+<img src="assets/images/readmeImages/wish.jpg" alt="Wishlist Page" width="100"/>
+
 
