@@ -2,23 +2,15 @@ import 'package:ModernMuse/features/shop/screens/store/widgets/category_tab.dart
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
 
 import '../../../../common/widgets/appbar/tabbar.dart';
-import '../../../../common/widgets/brands/brand_show_case.dart';
-import '../../../../common/widgets/custom_shapes/containers/rounded_container.dart';
 import '../../../../common/widgets/custom_shapes/containers/search_container.dart';
-import '../../../../common/widgets/images/t_circular_image.dart';
 
 import '../../../../common/widgets/layouts/grid_layout.dart';
-import '../../../../common/widgets/products/cart_menu_icon.dart';
 import '../../../../common/widgets/brands/brandcard.dart';
 import '../../../../common/widgets/texts/section_heading.dart';
-import '../../../../common/widgets/texts/t_brand_title_test_with_verified_icon.dart';
 import '../../../../data/repositories/brands/brands_shimmer.dart';
 import '../../../../utils/constants/colors.dart';
-import '../../../../utils/constants/enums.dart';
-import '../../../../utils/constants/image_strings.dart';
 import '../../../../utils/constants/sizes.dart';
 import '../../../../utils/helpers/helper_functions.dart';
 import '../../controllers/category_controller.dart';

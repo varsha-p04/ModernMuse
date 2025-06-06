@@ -1,10 +1,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
 
 import '../../../../../common/widgets/image_text_widgets/vertical_image_text.dart';
-import '../../../../../utils/constants/image_strings.dart';
 import '../../../controllers/category_controller.dart';
 import '../../../controllers/product/category_shimmer.dart';
 import '../../sub_category/subcategories.dart';

@@ -6,7 +6,6 @@ import '../../../utils/constants/colors.dart';
 import '../../../utils/constants/sizes.dart';
 import '../../../utils/helpers/helper_functions.dart';
 import '../custom_shapes/containers/rounded_container.dart';
-import 'brandcard.dart';
 class TBrandShowCase extends StatelessWidget {
   const TBrandShowCase({
     super.key,

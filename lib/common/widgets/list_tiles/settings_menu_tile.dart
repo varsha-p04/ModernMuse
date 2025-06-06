@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:iconsax/iconsax.dart';
 
 import '../../../utils/constants/colors.dart';
-import '../../../utils/constants/sizes.dart';
-import '../texts/section_heading.dart'; // Assuming you're using Iconsax package for the icons
+// Assuming you're using Iconsax package for the icons
 
 class TSettingMenuTile extends StatelessWidget {
   const TSettingMenuTile({

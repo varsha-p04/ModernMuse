@@ -1,6 +1,5 @@
 
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:image_picker/image_picker.dart';
@@ -38,12 +37,8 @@ class UserController extends GetxController {
     try {
       profileLoading.value = true;
       final fetchedUser = await userRepository.fetchUserDetails();
-      if (fetchedUser != null) {
-        user(fetchedUser);
-      } else {
-        user(UserModel.empty());
-      }
-    } catch (e) {
+      user(fetchedUser);
+        } catch (e) {
       user(UserModel.empty());
     } finally {
       profileLoading.value = false;

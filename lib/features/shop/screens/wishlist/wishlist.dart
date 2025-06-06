@@ -16,8 +16,6 @@ import '../../../authentication/controllers/favourites_controller.dart';
 import '../home/home.dart';
 
 
-import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 
 
 class FavouriteScreen extends StatelessWidget {

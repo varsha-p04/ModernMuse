@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
 
 import '../../../../../common/widgets/chips/choice_chip.dart';
 import '../../../../../common/widgets/custom_shapes/containers/rounded_container.dart';

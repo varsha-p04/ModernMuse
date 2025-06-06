@@ -1,6 +1,5 @@
 import '../../../routes/routes.dart';
 import '../../../utils/constants/image_strings.dart';
-import '../../personalization/models/user_model.dart';
 import '../../shop/models/banner_model.dart';
 import '../../shop/models/brand_model.dart';
 import '../../shop/models/product_attribute_model.dart';

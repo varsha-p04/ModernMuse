@@ -8,7 +8,6 @@ import '../../../../../common/widgets/texts/product_title_text.dart';
 import '../../../../../common/widgets/texts/t_brand_title_test_with_verified_icon.dart';
 import '../../../../../utils/constants/colors.dart';
 import '../../../../../utils/constants/enums.dart';
-import '../../../../../utils/constants/image_strings.dart';
 import '../../../../../utils/constants/sizes.dart';
 import '../../../../../utils/helpers/helper_functions.dart';
 import '../../../controllers/product_controller.dart';

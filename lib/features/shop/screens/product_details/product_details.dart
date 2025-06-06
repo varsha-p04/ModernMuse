@@ -11,7 +11,6 @@ import 'package:readmore/readmore.dart';
 import '../../../../common/widgets/texts/section_heading.dart';
 import '../../../../utils/constants/enums.dart';
 import '../../../../utils/constants/sizes.dart';
-import '../../../../utils/helpers/helper_functions.dart';
 import '../../models/product_model.dart';
 
 class ProductDetailScreen extends StatelessWidget {

@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
 
-import '../../../../features/shop/screens/home/home.dart';
 import '../../../../utils/constants/colors.dart';
 
 class TCircularContainer extends StatelessWidget {

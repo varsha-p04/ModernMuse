@@ -5,22 +5,14 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
-import 'package:iconsax/iconsax.dart';
-import 'package:carousel_slider/carousel_slider.dart'; // Import carousel_slider package
-import '../../../../common/widgets/custom_shapes/containers/circular_container.dart';
+// Import carousel_slider package
 import '../../../../common/widgets/custom_shapes/containers/primary_header_container.dart';
 import '../../../../common/widgets/custom_shapes/containers/search_container.dart';
-import '../../../../common/widgets/image_text_widgets/vertical_image_text.dart';
-import '../../../../common/widgets/images/t_rounded_image.dart';
 
 import '../../../../common/widgets/layouts/grid_layout.dart';
 import '../../../../common/widgets/products/product_cards/product_card_vertical.dart';
 import '../../../../common/widgets/texts/section_heading.dart';
-import '../../../../utils/constants/colors.dart';
-import '../../../../utils/constants/image_strings.dart';
 import '../../../../utils/constants/sizes.dart';
-import '../../../../utils/device/device_utility.dart';
 import '../../../../utils/popups/vertical_product_shimmer.dart';
 import '../../controllers/product_controller.dart';
 import '../all_products/all_products.dart';

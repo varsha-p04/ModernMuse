@@ -3,7 +3,6 @@ import 'package:ModernMuse/common/widgets/icons/t_circular_icon.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:iconsax/iconsax.dart';
-import '../../../../features/shop/controllers/product/favourites_controller.dart';
 import '../../../../utils/constants/colors.dart';
 import '../../../features/authentication/controllers/favourites_controller.dart';
 

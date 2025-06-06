@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 
 import '../../../features/shop/models/cart_item_model.dart';
 import '../../../utils/constants/colors.dart';
-import '../../../utils/constants/image_strings.dart';
 import '../../../utils/constants/sizes.dart';
 import '../../../utils/helpers/helper_functions.dart';
 import '../images/t_rounded_image.dart';

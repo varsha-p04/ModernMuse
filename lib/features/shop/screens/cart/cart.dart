@@ -2,21 +2,14 @@
 import 'package:ModernMuse/features/shop/screens/cart/widgets/cart_items.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
 
-import '../../../../common/widgets/appbar/appbar.dart';
 import '../../../../common/widgets/loaders/animation_loader.dart';
-import '../../../../common/widgets/products/add_remove_button.dart';
-import '../../../../common/widgets/products/cart_item.dart';
-import '../../../../common/widgets/texts/product_price_text.dart';
 import '../../../../navigation_menu.dart';
 import '../../../../utils/constants/image_strings.dart';
 import '../../../../utils/constants/sizes.dart';
 import '../../controllers/product/cart_controller.dart';
 import '../checkout/checkout.dart';
 
-import 'package:flutter/material.dart';
-import 'package:get/get.dart';
 
 
 class CartScreen extends StatelessWidget {

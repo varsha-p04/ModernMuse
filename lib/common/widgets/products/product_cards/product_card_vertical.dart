@@ -1,16 +1,12 @@
 
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
-import 'package:iconsax/iconsax.dart';
 
-import '../../../../../common/widgets/custom_shapes/containers/circular_container.dart';
 import '../../../../../common/widgets/images/t_rounded_image.dart';
 
 import '../../../../../utils/constants/colors.dart';
 import '../../../../../utils/constants/sizes.dart';
 import '../../../../../utils/helpers/helper_functions.dart';
-import '../../../../../utils/constants/image_strings.dart';
 import '../../../../features/shop/controllers/product_controller.dart';
 import '../../../../features/shop/models/product_model.dart';
 import '../../../../features/shop/screens/product_details/product_details.dart';
@@ -18,11 +14,9 @@ import '../../../../features/shop/screens/product_details/widgets/add_to_cart_bu
 import '../../../styles/shadows.dart';
 import '../../custom_shapes/containers/rounded_container.dart';
 import '../../icons/favouriteIcon.dart';
-import '../../icons/t_circular_icon.dart';
 import '../../texts/product_price_text.dart';
 import '../../texts/product_title_text.dart';
 import '../../texts/t_brand_title_test_with_verified_icon.dart';
-import '../favourite_icon/favourite_icon.dart';
 
 
 
